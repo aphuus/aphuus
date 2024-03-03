@@ -4,6 +4,12 @@
   <img src="https://i.imgur.com/OOpRj.gif" width="300"/>
 </div>
 
+<div id="badges">
+  <a target="_blank" href="https://www.linkedin.com/in/aleksihuusko/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ## About Me
 
 - 🔭 **Currently Working On:** A resource base for web developers and designers, aimed at providing a comprehensive toolkit for industry professionals.
