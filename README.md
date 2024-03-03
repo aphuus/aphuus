@@ -41,7 +41,7 @@ I'll increase your personal or business online presence via Search Engine Optimi
 
 ## 🧔🏽 About Me
 
-I'm a Full Time Developer from Finland 🇫🇮.
+I'm a Full-Time Frontend Developer & UI/UX Designer from Finland 🇫🇮.
 
 - 🔭 **Currently Working On:** A resource base for web developers and designers, aimed at providing a comprehensive toolkit for industry professionals.
 - 🌱 **Learning:** Web frameworks, including Next.js and Remix, along with various headless CMS solutions like Sanity, Prismic, Strapi, and Contentful. My ultimate goal is to master React, TypeScript, and Tailwind CSS.
