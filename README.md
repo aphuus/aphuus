@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360"/>
+</div>
 
 <!--
 **aphuus/aphuus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
