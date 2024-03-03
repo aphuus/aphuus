@@ -56,7 +56,7 @@ I'm a Full-Time Frontend Developer & UI/UX Designer from Finland 🇫🇮.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aphuus&theme=dark&hide_border=true&border_radius=4&date_format=j%2Fn%5B%2FY%5D&card_width=600)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphuus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Connect With Me
 
