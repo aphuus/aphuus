@@ -1,8 +1,8 @@
-# 🌐 Welcome to My Profile!
+# 👋🏽 Hi there!
 <img src="https://komarev.com/ghpvc/?username=aphuus&style=flat-square&color=blue" alt=""/>
 
 <div id="header" align="left">
-  <img src="https://i.imgur.com/OOpRj.gif" width="150"/>
+  <img src="https://i.imgur.com/OOpRj.gif" width="300"/>
 </div>
 
 <div id="badges">
